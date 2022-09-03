@@ -1,0 +1,1 @@
+- [Linux From Scratch](https://www.linuxfromscratch.org/lfs/downloads/stable-systemd/LFS-11.2-SYSTEMD-BOOK.pdf)
