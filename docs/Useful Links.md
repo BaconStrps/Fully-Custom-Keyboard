@@ -1,1 +1,3 @@
 - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/downloads/stable-systemd/LFS-11.2-SYSTEMD-BOOK.pdf)
+- [Arduino Nano Every Pinout](https://docs.arduino.cc/static/f0b9dbf4880a49becb8453a10590d1ca/ABX00028-datasheet.pdf)
+- [ATmega4809 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega4808-4809-Data-Sheet-DS40002173A.pdf)
